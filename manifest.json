@@ -12,8 +12,7 @@
             "matches": ["<all_urls>"],
             "js": [
                 "lib/jquery-1.7.2.js",
-                "lib/jquery.dom-outline-1.0.js",
-                "lib/cssman.js"
+                "lib/jquery.dom-outline-1.0.js"
             ]
         }
     ],
